@@ -27,9 +27,7 @@ cd Backend
 Install backend dependencies:
 npm install
 
-Create a .env file in the api folder and add the following environment variables:
-MONGODB_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret_key
+In server.js(line 33) change MONGODB_URI=your_mongodb_connection_string
 
 Start the backend server:
 npm start
