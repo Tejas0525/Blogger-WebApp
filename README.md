@@ -18,9 +18,10 @@ Git
 ***Installation Guide***
 1. Clone the Repository
 git clone https://github.com/Tejas0525/Blogger-WebApp.git
+
 cd blogger-webapp
 
-2. Backend Setup
+3. Backend Setup
 Navigate to the Backend directory:
 cd Backend
 
