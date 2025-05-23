@@ -48,7 +48,7 @@ In server.js(line 33) change MONGODB_URI=your_mongodb_connection_string
 
 Start the backend server:
 
-npm start
+npm start or node sever.js or nodemon server.js 
 
 3. Frontend Setup
    
